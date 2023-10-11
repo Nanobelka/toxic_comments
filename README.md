@@ -20,3 +20,9 @@ Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 - оценить качество моделей по дополнительным метрикам;
 - сделать контрольную проверку на тестовой выборке;
 - сформулировать рекомендации для дальнейшего развития проекта.
+
+### Примеры визуализаций
+
+Анализ качества модели
+![Анализ качества модели: Confusion Matrix](https://github.com/Nanobelka/toxic_comments/blob/main/images/example_1_confusion_matrix.png)
+![Анализ качества модели: Class Prediction Error](https://github.com/Nanobelka/toxic_comments/blob/main/images/example_2_class_prediction_error.png)
